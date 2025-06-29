@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Custom Link Share</title>
+    <meta property="og:url" content="https://open.spotify.com/track/3iIIORF1BC5shfly24RoV9?si=qz6_mDk7QZ6eGptU7rwzvw" />
+    <meta property="og:type" content="music.song" />
+    <meta property="og:title" content="เรื่องฝนฝน" />
+    <meta property="og:description" content="" />
+    <meta property="og:audio" content="" />
+    <meta property="og:audio:type" content="audio/vnd.facebook.sps" />
+
+    <meta http-equiv="refresh" content="0; url=https://open.spotify.com/track/3iIIORF1BC5shfly24RoV9?si=qz6_mDk7QZ6eGptU7rwzvw" />
+</head>
+<body>
+    <p>Redirecting to Spotify...</p>
+</body>
+</html>
